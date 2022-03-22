@@ -1,7 +1,7 @@
-package com.example.belajarkotlin
+package udemy.ekk.belajarkotlin.phase1
 const val APP_VERSION = "0.0.1";
 
-//fun main() {
+//fun udemy.ekk.belajarkotlin.phase1.main() {
 //    /// Variable Mutable
 //    var firstname = "zeffry"
 //    var lastname = "reynando"

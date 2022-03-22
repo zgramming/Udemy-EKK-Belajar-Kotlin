@@ -1,6 +1,6 @@
-package com.example.belajarkotlin
+package udemy.ekk.belajarkotlin.phase1
 
-//fun main(){
+//fun udemy.ekk.belajarkotlin.phase1.main(){
 //    val benar  = true;
 //    val salah : Boolean = false;
 //    print("${benar} || ${salah}");

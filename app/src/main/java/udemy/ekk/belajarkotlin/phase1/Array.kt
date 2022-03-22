@@ -1,6 +1,6 @@
-package com.example.belajarkotlin
+package udemy.ekk.belajarkotlin.phase1
 
-//fun main(){
+//fun udemy.ekk.belajarkotlin.phase1.main(){
 //    val hobbies  = arrayOf<String>("Memancing","Memasak","Membadut");
 //    val nilaiUAS = arrayListOf<Int?>(80,90,50,100);
 //

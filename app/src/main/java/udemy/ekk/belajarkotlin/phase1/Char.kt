@@ -1,6 +1,6 @@
-package com.example.belajarkotlin
+package udemy.ekk.belajarkotlin.phase1
 
-//fun main(){
+//fun udemy.ekk.belajarkotlin.phase1.main(){
 //    var z: Char = 'Z';
 //    var e: Char = 'E';
 //    var f: Char = 'F';

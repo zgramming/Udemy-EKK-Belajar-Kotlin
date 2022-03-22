@@ -1,2 +1,0 @@
-package udemy.ekk.belajarkotlin
-
